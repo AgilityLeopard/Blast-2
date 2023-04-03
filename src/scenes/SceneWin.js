@@ -26,12 +26,12 @@ export default class SceneWin extends SceneGame
 
     this.playSound()
 
-    this.drawTitle('Victory!')
+    this.drawTitle('Победа!')
 
     const firework = new Firework(this)
     firework.run(10)
 
-    this.add.btn(centerX, centerY + 80, 'Finish', () =>
+    this.add.btn(centerX, centerY + 80, 'Конец', () =>
       {
         this.scene.start('SceneBoot')
       })

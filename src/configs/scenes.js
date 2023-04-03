@@ -23,7 +23,7 @@ export const scene2 = {
   bonuses: [
     {
       name: 'bomb',
-      title: 'Bomb!',
+      title: 'Бомба!',
       amount: 1,
       params: { range: 1 },
     },
