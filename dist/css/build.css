@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Marvin;
+    font-style: normal;
+    src: url(../assets/fonts/0b0440dad1201b851ced.otf)
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Marvin, sans-serif
+}
+
+#game {
+    background: #00539e
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3NzL2J1aWxkLmNzcyIsIm1hcHBpbmdzIjoiQUFBQSxXQUNFLGtCQUFZLENBQ1osaUJBQVcsQ0FDWCwyQ0FBeUMsQ0NIM0MsVUFDRSxRQUFPLENBQ1AsU0FBUSxDQUNSLDZCQUFZLENBRWQsTUFDRSxrQkFBVyxPIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vYmxhc3QtZ2FtZS8uL3NyYy9hc3NldHMvc3R5bGVzL2ZvbnRzLnN0eWwiLCJ3ZWJwYWNrOi8vYmxhc3QtZ2FtZS8uL3NyYy9hc3NldHMvc3R5bGVzL2FwcC5zdHlsIl0sInNvdXJjZXNDb250ZW50IjpbIkBmb250LWZhY2VcbiAgZm9udC1mYW1pbHkgTWFydmluXG4gIGZvbnQtc3R5bGUgbm9ybWFsXG4gIHNyYyB1cmwoQC9hc3NldHMvZm9udHMvbWFydmluL3JlZ3VsYXIub3RmKVxuIiwiYm9keSwgaHRtbFxuICBtYXJnaW4gMFxuICBwYWRkaW5nIDBcbiAgZm9udC1mYW1pbHkgZm9udEZhbWlseUJhc2VcblxuI2dhbWVcbiAgYmFja2dyb3VuZCBjb2xvckJnQmFzZVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
